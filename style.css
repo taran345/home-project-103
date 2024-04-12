@@ -1,0 +1,21 @@
+body{
+    background-color:yellowgreen ;
+    color: blueviolet;
+    text-decoration: dashed ;
+
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+
+}
+.name_of_objects{
+    color: aqua;
+    
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}  
